@@ -1,0 +1,40 @@
+# Ignorar carpetas generadas automáticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Ignorar configuraciones específicas del usuario y del IDE
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.ide/
+
+# Ignorar archivos de compilación de Visual Studio
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+
+# Ignorar carpetas de build personalizadas
+[Oo]bj/
+[Bb]uild/
