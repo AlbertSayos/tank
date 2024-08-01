@@ -13,7 +13,7 @@ Este proyecto es un juego en 3D basado en el clásico "Battle City", desarrollad
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/AlbertSayos/tank.git
 
 2. Abre el proyecto en Unity:
 
